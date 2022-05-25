@@ -1,0 +1,17 @@
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\NumbersApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\NumbersApi.AssemblyInfoInputs.cache
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\NumbersApi.AssemblyInfo.cs
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\NumbersApi.csproj.CoreCompileInputs.cache
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\bin\Debug\netstandard2.0\NumbersApi.deps.json
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\bin\Debug\netstandard2.0\NumbersApi.dll
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\bin\Debug\netstandard2.0\ref\NumbersApi.dll
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\bin\Debug\netstandard2.0\NumbersApi.pdb
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\NumbersApi.dll
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\ref\NumbersApi.dll
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\NumbersApi.pdb
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\NumbersApi.csproj.AssemblyReference.cache
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\Views\NoteAddingPage.xaml.g.cs
+C:\Users\linar\source\repos\NumbersApi\NumbersApi\NumbersApi\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
